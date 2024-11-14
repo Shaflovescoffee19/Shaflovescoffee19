@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Shaflovescoffee19
+- 👋 Hi, I’m @Shafomics19
 - 👀 I’m interested in Genomics and Bioinformatics
 
