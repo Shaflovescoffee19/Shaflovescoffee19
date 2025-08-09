@@ -18,7 +18,7 @@
 * **Data Processing:** NGS preprocessing, mapping, assembly, quantification
 * **Gene Analysis:** Gene Prediction (AUGUSTUS, GeneMark), Gene Ontology (ShinyGO), eggNOG-mapper
 * **Pathway & Network Analysis:** KEGG, stringDB, Cytoscape, KEGG Mapper
-* ### **Databases & Resources**
+* ### **🗄️Databases & Resources**
 * **General:** NCBI, GenBank, UCSC Genome Browser, UniProt, PubMed, PDB, refSeq
 * **Variant:** ClinVar, Cosmic, gnomAD, dbSNP, HGMD, CADD, REVEL
 * **Cancer-Specific:** cBioportal, TumorPortal, UALCAN, GEPIA, TCGA
@@ -27,4 +27,4 @@
 * **Molecular Biology:** DNA/RNA Extraction (from bacteria, blood, feaces, leaves, root, soil, water, and fungi), PCR, qPCR
 * **Biochemistry:** Biochemical and Enzymatic assays
 ----
-* ### **Fun Fact:** When I'm not analyzing data, I analyze film plots on Letterboxd (＾▽＾)
+* ### **🤓Fun Fact:** When I'm not analyzing data, I analyze film plots on Letterboxd (＾▽＾)  📊➡️🎬
