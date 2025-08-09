@@ -3,7 +3,7 @@
 * Connect with me on LinkedIn [**Mohiraa Shafreen**](https://www.linkedin.com/in/mohiraa-shafreen-95829921a)
 * Check out my publications [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=0mf9Qd0AAAAJ)
   
-* ### **📚What I have accomplished**
+* ### *📚What I've accomplished*
 * Gold Medalist in B.Tech Biotechnology | M.Tech First CLass
 * Published 7 peer-reviewed articles | 120+ citations
 * Dual expertise in bioinformatic workflows and wet lab
