@@ -1,14 +1,13 @@
 # Hi there, I'm Mohiraa Shafreen! 
 ### *I'm driven to unlock the hidden patterns within multi-omics data into breakthrough discoveries that revolutionize how we treat disease, accelerate biotechnology breakthroughs, and translate cutting-edge research into life-changing personalised therapies for patients worldwide*
-* Connect with me on LinkedIn [**Mohiraa Shafreen**](https://www.linkedin.com/in/mohiraa-shafreen-95829921a)
-* Check out my publications [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=0mf9Qd0AAAAJ)
+Connect with me on LinkedIn [**Mohiraa Shafreen**](https://www.linkedin.com/in/mohiraa-shafreen-95829921a) | Check out my publications [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=0mf9Qd0AAAAJ)
   
-* ### *📚What I've accomplished*
+### *📚What I've accomplished*
 * Gold Medalist in B.Tech Biotechnology | M.Tech First CLass
 * Published 7 peer-reviewed articles | 120+ citations
 * Dual expertise in bioinformatic workflows and wet lab
 
-* ### *🛠 Technical Skills*
+  ### *🛠 Technical Skills*
 
 * ### **💻Programming & Computing**
 * **Languages:** Python (Biopython), R (Bioconductor), Linux
@@ -27,4 +26,4 @@
 * **Molecular Biology:** DNA/RNA Extraction (from bacteria, blood, feaces, leaves, root, soil, water, and fungi), PCR, qPCR
 * **Biochemistry:** Biochemical and Enzymatic assays
 ----
-* ### **🤓Fun Fact:** When I'm not analyzing data, I analyze film plots on Letterboxd (＾▽＾)  📊➡️🎬
+### **🤓Fun Fact:** When I'm not analyzing data, I analyze film plots on Letterboxd (＾▽＾)  📊➡️🎬
