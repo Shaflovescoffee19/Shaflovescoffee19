@@ -1,5 +1,5 @@
-* # Hi there, I'm Mohiraa Shafreen! 
-* ### **Passionate about transforming multi-omics data into insights that fuel precision medicine, biotechnology innovations, and research with real-world impact**
+# Hi there, I'm Mohiraa Shafreen! 
+### *I'm driven to unlock the hidden patterns within multi-omics data into breakthrough discoveries that revolutionize how we treat disease, accelerate biotechnology breakthroughs, and translate cutting-edge research into life-changing personalised therapies for patients worldwide*
 * Connect with me on LinkedIn [**Mohiraa Shafreen**](https://www.linkedin.com/in/mohiraa-shafreen-95829921a)
 * Check out my publications [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=0mf9Qd0AAAAJ)
   
