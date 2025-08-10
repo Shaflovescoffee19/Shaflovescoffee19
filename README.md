@@ -9,19 +9,19 @@ Connect with me on LinkedIn [**Mohiraa Shafreen**](https://www.linkedin.com/in/m
 
   ### *🛠 Technical Skills*
 
-* ### **💻Programming & Computing**
+### **💻Programming & Computing**
 * **Languages:** Python (Biopython), R (Bioconductor), Linux
 * **Machine Learning:** SVM-RFE and Lasso (Feature Selection)
-* ### **📈Bioinformatics Tools & Workflows**
+### **📈Bioinformatics Tools & Workflows**
 * **NGS Analysis:** RNA-seq (de novo & reference), DNA-seq (variant calling & annotation), metagenomics
 * **Data Processing:** NGS preprocessing, mapping, assembly, quantification
 * **Gene Analysis:** Gene Prediction (AUGUSTUS, GeneMark), Gene Ontology (ShinyGO), eggNOG-mapper
 * **Pathway & Network Analysis:** KEGG, stringDB, Cytoscape, KEGG Mapper
-* ### **🗄️Databases & Resources**
+### **🗄️Databases & Resources**
 * **General:** NCBI, GenBank, UCSC Genome Browser, UniProt, PubMed, PDB, refSeq
 * **Variant:** ClinVar, Cosmic, gnomAD, dbSNP, HGMD, CADD, REVEL
 * **Cancer-Specific:** cBioportal, TumorPortal, UALCAN, GEPIA, TCGA
-* ### **🔬Wet Lab Expertise**
+### **🔬Wet Lab Expertise**
 * **Microbiology:** Microbial Isolation, Antimicrobial Screening, Monod Modeling, Growth Kinetics
 * **Molecular Biology:** DNA/RNA Extraction (from bacteria, blood, feaces, leaves, root, soil, water, and fungi), PCR, qPCR
 * **Biochemistry:** Biochemical and Enzymatic assays
