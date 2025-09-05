@@ -26,4 +26,4 @@ Connect with me on LinkedIn [**Mohiraa Shafreen**](https://www.linkedin.com/in/m
 * **Molecular Biology:** DNA/RNA Extraction (from bacteria, blood, feaces, leaves, root, soil, water, and fungi), PCR, qPCR
 * **Biochemistry:** Biochemical and Enzymatic assays
 ----
-### **🤓Fun Fact:** When I'm not analyzing data, I analyze film plots on Letterboxd (＾▽＾)  📊➡️🎬
+### **🤓Fun Fact:** When I'm not analyzing data, I analyze film plots on Letterboxd [**cursesandcoffee**](https://letterboxd.com/cursesandcoffee/)(＾▽＾)  📊➡️🎬
