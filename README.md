@@ -27,6 +27,4 @@ Connect with me on LinkedIn [**Mohiraa Shafreen**](https://www.linkedin.com/in/m
 * **Biochemistry:** Biochemical and Enzymatic assays
 ----
 ### **🤓Fun Fact:** When I'm not analyzing data, I read a lot of books, hoard them, watch a lot of movies, and analyze more film plots on Letterboxd [**@cursesandcoffee**](https://letterboxd.com/cursesandcoffee/)(＾▽＾)  📊➡️🎬
-### PS: Currently reading _Project Hail Mary_ by Andy Weir (microbiologists would especially _LOVE_ it)
-* The movie trailer blew me away....
-* Can't wait to see if the movie is better than the book or the book wins out **as always**
+### PS: Currently reading _**Project Hail Mary**_ by Andy Weir (_microbiologists_ would especially LOVE it). The movie trailer blew me away… can’t wait to see if the movie is better than the book, or if the book wins out as always.
