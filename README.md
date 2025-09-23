@@ -7,7 +7,7 @@ Connect with me on LinkedIn [**Mohiraa Shafreen**](https://www.linkedin.com/in/m
 * Published 7 peer-reviewed articles | 120+ citations
 * Dual expertise in bioinformatic workflows and wet lab
 
-  ### # 💻 Programming & Technical Stack
+ # 💻 Programming & Technical Stack
 ### **Python ecosystem**
 libraries = {
     'bioinformatics': ['biopython', 'pysam', 'pyvcf', 'scikit-bio'],
