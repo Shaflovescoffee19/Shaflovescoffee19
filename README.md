@@ -16,14 +16,17 @@ libraries = {
     'visualization': ['matplotlib', 'seaborn', 'plotly', 'bokeh'],
     'genomics': ['pybedtools', 'pygenome', 'cyvcf2']
 }
-# R/Bioconductor packages I've used previously 
-packages <- c(
-*  "DESeq2", "limma", "edgeR",           # Differential expression
-*  "GenomicRanges", "rtracklayer",       # Genomic data handling  
-*  "clusterProfiler", "DOSE",            # Pathway enrichment
-*  "ggplot2", "ComplexHeatmap",          # Visualization
-*  "Biostrings", "BSgenome"              # Sequence analysis
-)
+### 🧬 R/Bioconductor Packages I've Used 
+
+| Category | Core Packages | Primary Application |
+|----------|---------------|-------------------|
+| **Differential Expression** | `DESeq2`, `limma`, `edgeR` | RNA-seq analysis & statistical testing |
+| **Genomic Data Handling** | `GenomicRanges`, `rtracklayer`, `GenomicFeatures` | Coordinate-based data manipulation |
+| **Pathway Analysis** | `clusterProfiler`, `DOSE`, `ReactomePA` | GO/KEGG enrichment & visualization |
+| **Visualization** | `ggplot2`, `ComplexHeatmap`, `EnhancedVolcano` | plots & heatmaps |
+| **Sequence Analysis** | `Biostrings`, `BSgenome`, `ShortRead` | DNA/RNA sequence manipulation |
+| **Statistical Modeling** | `sva`, `RUVSeq`, `BatchQC` | Batch correction & quality control |
+| **Annotation** | `org.Hs.eg.db`, `TxDb.Hsapiens.UCSC.hg38.knownGene` | Gene/transcript annotation databases |
 
 ### **Specialized Bioinformatics Skills**
 * 🧬 **NGS Pipelines:** Quality control → Alignment → Quantification → Analysis
