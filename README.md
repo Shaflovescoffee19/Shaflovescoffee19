@@ -7,20 +7,52 @@ Connect with me on LinkedIn [**Mohiraa Shafreen**](https://www.linkedin.com/in/m
 * Published 7 peer-reviewed articles | 120+ citations
 * Dual expertise in bioinformatic workflows and wet lab
 
-  ### *🛠 Technical Skills*
+  ### 💻 Programming & Technical Stack
+### **Core Languages & Frameworks**
+# Python ecosystem I normally work with
+libraries = {
+    'bioinformatics': ['biopython', 'pysam', 'pyvcf', 'scikit-bio'],
+    'data_science': ['pandas', 'numpy', 'scipy', 'scikit-learn'],
+    'visualization': ['matplotlib', 'seaborn', 'plotly', 'bokeh'],
+    'genomics': ['pybedtools', 'pygenome', 'cyvcf2']
+}
+# R/Bioconductor packages I've used previously 
+packages <- c(
+  "DESeq2", "limma", "edgeR",           # Differential expression
+  "GenomicRanges", "rtracklayer",       # Genomic data handling  
+  "clusterProfiler", "DOSE",            # Pathway enrichment
+  "ggplot2", "ComplexHeatmap",          # Visualization
+  "Biostrings", "BSgenome"              # Sequence analysis
+)
 
-### **💻Programming & Computing**
-* **Languages:** Python (Biopython), R (Bioconductor), Linux
-* **Machine Learning:** SVM-RFE and Lasso (Feature Selection)
-### **📈Bioinformatics Tools & Workflows**
-* **NGS Analysis:** RNA-seq (de novo & reference), DNA-seq (variant calling & annotation), metagenomics
-* **Data Processing:** NGS preprocessing, mapping, assembly, quantification
-* **Gene Analysis:** Gene Prediction (AUGUSTUS, GeneMark), Gene Ontology (ShinyGO), eggNOG-mapper
-* **Pathway & Network Analysis:** KEGG, stringDB, Cytoscape, KEGG Mapper
-### **🗄️Databases & Resources**
-* **General:** NCBI, GenBank, UCSC Genome Browser, UniProt, PubMed, PDB, refSeq
-* **Variant:** ClinVar, Cosmic, gnomAD, dbSNP, HGMD, CADD, REVEL
-* **Cancer-Specific:** cBioportal, TumorPortal, UALCAN, GEPIA, TCGA
+### **Specialized Bioinformatics Skills**
+* 🧬 **NGS Pipelines:** Quality control → Alignment → Quantification → Analysis
+* 🔬 **Variant Analysis:** VCF processing, annotation, population genetics
+* 🦠 **Metagenomics:** Taxonomic profiling, diversity analysis, phylogenetics
+* 🎯 **Cancer Genomics:** Mutation analysis, survival modeling, biomarker discovery
+* 📊 **Statistical Genomics:** GWAS, eQTL analysis, differential expression
+
+  ###**🗄️ Data Sources & Integration Pipeline**
+* **Reference Genomes & Annotations**
+* GRCh37/GRCh38 - Human genome assemblies for variant mapping
+* GENCODE/RefSeq - Gene annotations and transcript models
+* Ensembl BioMart - Bulk data retrieval and gene ID mapping
+* **Variant & Population Data**
+* gnomAD v3.1.2 - Population allele frequencies (125K+ exomes, 71K+ genomes)
+* ClinVar - Clinical variant interpretations and pathogenicity
+* CADD v1.6 & REVEL - In silico pathogenicity prediction scores
+* dbSNP & COSMIC - Variant catalogs and somatic mutations
+* **Functional & Pathway Resources**
+* KEGG Pathway - Metabolic and signaling pathway mapping
+* Gene Ontology - Functional classification and enrichment analysis
+* STRING v11.5 - Protein-protein interaction networks
+* Reactome - Curated biological pathway annotations
+* **Cancer & Clinical Genomics**
+* TCGA - Multi-omics cancer data (33 cancer types, 11K+ patients)
+* cBioPortal - Cancer genomics visualization and analysis
+* COSMIC - Somatic mutation and drug resistance databases
+* GEPIA2 - Interactive web server for cancer data analysis
+
 ### **🔬Wet Lab Expertise**
 * **Microbiology:** Microbial Isolation, Antimicrobial Screening, Monod Modeling, Growth Kinetics
 * **Molecular Biology:** DNA/RNA Extraction (from bacteria, blood, feaces, leaves, root, soil, water, and fungi), PCR, qPCR
