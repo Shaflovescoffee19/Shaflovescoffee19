@@ -33,7 +33,7 @@ packages <- c(
 * 📊 **Statistical Genomics:** GWAS, eQTL analysis, differential expression
 
 ### **🗄️ Data Sources & Integration Pipeline**
-* **Reference Genomes & Annotations**
+### **Reference Genomes & Annotations**
 * GRCh37/GRCh38 - Human genome assemblies for variant mapping
 * GENCODE/RefSeq - Gene annotations and transcript models
 * Ensembl BioMart - Bulk data retrieval and gene ID mapping
