@@ -9,12 +9,14 @@ Connect with me on LinkedIn [**Mohiraa Shafreen**](https://www.linkedin.com/in/m
 
  # 💻 Programming & Technical Stack
 ### **Python ecosystem**
+```
 libraries = {
     'bioinformatics': ['biopython', 'pysam', 'pyvcf', 'scikit-bio'],
     'data_science': ['pandas', 'numpy', 'scipy', 'scikit-learn'],
     'visualization': ['matplotlib', 'seaborn', 'plotly', 'bokeh'],
     'genomics': ['pybedtools', 'pygenome', 'cyvcf2']
 }
+```
 ### 🧬 R/Bioconductor Packages I've Used 
 
 | Category | Core Packages | Primary Application |
