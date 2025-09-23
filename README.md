@@ -28,7 +28,7 @@ libraries = {
 | **Statistical Modeling** | `sva`, `RUVSeq`, `BatchQC` | Batch Correction & Quality Control |
 | **Annotation** | `org.Hs.eg.db`, `TxDb.Hsapiens.UCSC.hg38.knownGene` | Gene/Transcript Annotation Databases |
 
-### **Specialized Bioinformatics Skills**
+### **💡Core Bioinformatics Expertise**
 * 🧬 **NGS Pipelines:** Quality control → Alignment → Quantification → Analysis
 * 🔬 **Variant Analysis:** VCF processing, annotation, population genetics
 * 🦠 **Metagenomics:** Taxonomic profiling, diversity analysis, phylogenetics
