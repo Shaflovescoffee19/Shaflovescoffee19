@@ -20,13 +20,13 @@ libraries = {
 
 | Category | Core Packages | Primary Application |
 |----------|---------------|-------------------|
-| **Differential Expression** | `DESeq2`, `limma`, `edgeR` | RNA-seq analysis & statistical testing |
-| **Genomic Data Handling** | `GenomicRanges`, `rtracklayer`, `GenomicFeatures` | Coordinate-based data manipulation |
-| **Pathway Analysis** | `clusterProfiler`, `DOSE`, `ReactomePA` | GO/KEGG enrichment & visualization |
-| **Visualization** | `ggplot2`, `ComplexHeatmap`, `EnhancedVolcano` | plots & heatmaps |
-| **Sequence Analysis** | `Biostrings`, `BSgenome`, `ShortRead` | DNA/RNA sequence manipulation |
-| **Statistical Modeling** | `sva`, `RUVSeq`, `BatchQC` | Batch correction & quality control |
-| **Annotation** | `org.Hs.eg.db`, `TxDb.Hsapiens.UCSC.hg38.knownGene` | Gene/transcript annotation databases |
+| **Differential Expression** | `DESeq2`, `limma`, `edgeR` | RNA-seq Analysis & Statistical Testing |
+| **Genomic Data Handling** | `GenomicRanges`, `rtracklayer`, `GenomicFeatures` | Coordinate-based Data Manipulation |
+| **Pathway Analysis** | `clusterProfiler`, `DOSE`, `ReactomePA` | GO/KEGG Enrichment & Visualization |
+| **Visualization** | `ggplot2`, `ComplexHeatmap`, `EnhancedVolcano` | Plots & Heatmaps |
+| **Sequence Analysis** | `Biostrings`, `BSgenome`, `ShortRead` | DNA/RNA Sequence Manipulation |
+| **Statistical Modeling** | `sva`, `RUVSeq`, `BatchQC` | Batch Correction & Quality Control |
+| **Annotation** | `org.Hs.eg.db`, `TxDb.Hsapiens.UCSC.hg38.knownGene` | Gene/Transcript Annotation Databases |
 
 ### **Specialized Bioinformatics Skills**
 * 🧬 **NGS Pipelines:** Quality control → Alignment → Quantification → Analysis
@@ -35,25 +35,23 @@ libraries = {
 * 🎯 **Cancer Genomics:** Mutation analysis, survival modeling, biomarker discovery
 * 📊 **Statistical Genomics:** GWAS, eQTL analysis, differential expression
 
-### **🗄️ Data Sources & Integration Pipeline**
-### **Reference Genomes & Annotations**
-* **GRCh37/GRCh38** - Human genome assemblies for variant mapping
-* **GENCODE/RefSeq** - Gene annotations and transcript models
-* **Ensembl BioMart** - Bulk data retrieval and gene ID mapping
-### **Variant & Population Data**
-* **gnomAD v3.1.2** - Population allele frequencies
-* **ClinVar** - Clinical variant interpretations and pathogenicity
-* **dbSNP & COSMIC** - Variant catalogs and somatic mutations
-### **Functional & Pathway Resources**
-* **KEGG Pathway** - Metabolic and signaling pathway mapping
-* **Gene Ontology** - Functional classification and enrichment analysis
-* **STRING** - Protein-protein interaction networks
-* **Reactome** - Curated biological pathway annotations
-### **Cancer & Clinical Genomics**
-* **TCGA** - Multi-omics cancer data (33 cancer types, 11K+ patients)
-* **cBioPortal** - Cancer genomics visualization and analysis
-* **COSMIC** - Somatic mutation and drug resistance databases
-* **GEPIA2** - Interactive web server for cancer data analysis
+### 🗄️ Data Sources & Integration Pipeline
+
+| Category | Resource | Description |
+|----------|----------|-------------|
+| **Reference Genomes** | `GRCh37/GRCh38` | Human genome assemblies for variant mapping |
+| | `GENCODE/RefSeq` | Gene annotations and transcript models |
+| | `Ensembl BioMart` | Bulk data retrieval and gene ID mapping |
+| **Variant & Population** | `gnomAD v3.1.2` | Population allele frequencies (125K+ exomes, 71K+ genomes) |
+| | `ClinVar` | Clinical variant interpretations and pathogenicity |
+| | `dbSNP & COSMIC` | Variant catalogs and somatic mutations |
+| **Functional Analysis** | `KEGG Pathway` | Metabolic and signaling pathway mapping |
+| | `Gene Ontology` | Functional classification and enrichment analysis |
+| | `STRING v11.5` | Protein-protein interaction networks |
+| | `Reactome` | Curated biological pathway annotations |
+| **Cancer Genomics** | `TCGA` | Multi-omics cancer data (33 cancer types, 11K+ patients) |
+| | `cBioPortal` | Cancer genomics visualization and analysis |
+| | `COSMIC` | Somatic mutation and drug resistance databases |
 
 ### **🔬Wet Lab Expertise**
 * **Microbiology:** Microbial Isolation, Antimicrobial Screening, Monod Modeling, Growth Kinetics
