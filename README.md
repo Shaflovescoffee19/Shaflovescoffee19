@@ -32,22 +32,22 @@ packages <- c(
 * 🎯 **Cancer Genomics:** Mutation analysis, survival modeling, biomarker discovery
 * 📊 **Statistical Genomics:** GWAS, eQTL analysis, differential expression
 
-  ###**🗄️ Data Sources & Integration Pipeline**
+### **🗄️ Data Sources & Integration Pipeline**
 * **Reference Genomes & Annotations**
 * GRCh37/GRCh38 - Human genome assemblies for variant mapping
 * GENCODE/RefSeq - Gene annotations and transcript models
 * Ensembl BioMart - Bulk data retrieval and gene ID mapping
-* **Variant & Population Data**
+### **Variant & Population Data**
 * gnomAD v3.1.2 - Population allele frequencies (125K+ exomes, 71K+ genomes)
 * ClinVar - Clinical variant interpretations and pathogenicity
 * CADD v1.6 & REVEL - In silico pathogenicity prediction scores
 * dbSNP & COSMIC - Variant catalogs and somatic mutations
-* **Functional & Pathway Resources**
+### **Functional & Pathway Resources**
 * KEGG Pathway - Metabolic and signaling pathway mapping
 * Gene Ontology - Functional classification and enrichment analysis
 * STRING v11.5 - Protein-protein interaction networks
 * Reactome - Curated biological pathway annotations
-* **Cancer & Clinical Genomics**
+### **Cancer & Clinical Genomics**
 * TCGA - Multi-omics cancer data (33 cancer types, 11K+ patients)
 * cBioPortal - Cancer genomics visualization and analysis
 * COSMIC - Somatic mutation and drug resistance databases
