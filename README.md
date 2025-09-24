@@ -7,7 +7,7 @@ Connect with me on LinkedIn [**Mohiraa Shafreen**](https://www.linkedin.com/in/m
 * Published 7 peer-reviewed articles | 120+ citations
 * Dual expertise in bioinformatic workflows and wet lab
 
- # 💻 Programming & Technical Stack
+ # 💻 Programming & Technical Skills
 ### **Python ecosystem**
 ```
 libraries = {
@@ -48,7 +48,7 @@ libraries = {
 | | `dbSNP & COSMIC` | Variant catalogs and somatic mutations |
 | **Functional Analysis** | `KEGG Pathway` | Metabolic and signaling pathway mapping |
 | | `Gene Ontology` | Functional classification and enrichment analysis |
-| | `STRING v11.5` | Protein-protein interaction networks |
+| | `STRING` | Protein-protein interaction networks |
 | | `Reactome` | Curated biological pathway annotations |
 | **Cancer Genomics** | `TCGA` | Multi-omics cancer data |
 | | `cBioPortal` | Cancer genomics visualization and analysis |
