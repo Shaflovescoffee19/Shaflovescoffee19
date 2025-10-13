@@ -73,7 +73,7 @@ libraries = {
 | **Molecular Biology** | DNA/RNA extraction, PCR, qPCR, RT-PCR | Bacteria, blood, feces, plant tissues, soil, water, fungi |
 | **Biochemistry** | Enzymatic assays, protein quantification, metabolite extraction, purification & analysis | Cellular extracts |
 ----
-### **🤓Fun Fact:** When I'm not analyzing data, I read a lot of books, hoard them, watch a lot of movies, and analyze more film plots on Letterboxd [**@cursesandcoffee**](https://letterboxd.com/manicindisguise/)(＾▽＾)  📊➡️🎬
+### **🤓Fun Fact:** When I'm not analyzing data, I read a lot of books, hoard them, watch a lot of movies, and analyze more film plots on Letterboxd [**@manicindisguise**](https://letterboxd.com/manicindisguise/)(＾▽＾)  📊➡️🎬
 ### PS: Currently reading _**Project Hail Mary**_ by Andy Weir (_microbiologists_ would especially LOVE it). The movie trailer blew me away… can’t wait to see if the movie is better than the book, or if the book wins out as always.
 ### And for all the Game of Thrones fans out there.. This is actually from George R. R. Martin
 _If you like a lot of science in your science fiction, Andy Weir is the writer for you...._
