@@ -14,7 +14,7 @@ Connect with me on LinkedIn [**Mohiraa Shafreen**](https://www.linkedin.com/in/m
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### *📚What I've accomplished*
-* Bioengineer with a Gold Medal _(B.Tech Biotechnology)_ | M.Tech First CLass
+* Bioengineer with a Gold Medal _(B.Tech Biotechnology)_ | M.Tech First Class
 * Published 7 peer-reviewed articles | 130+ citations
 * Dual expertise in bioinformatic workflows and wet lab
 
