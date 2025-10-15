@@ -9,28 +9,7 @@ Connect with me on LinkedIn [**Mohiraa Shafreen**](https://www.linkedin.com/in/m
 * Published 7 peer-reviewed articles | 130+ citations
 * Dual expertise in bioinformatic workflows and wet lab
 
- # 💻 Programming & Technical Skills
-### **Python ecosystem**
-```
-libraries = {
-    'bioinformatics': ['biopython', 'pysam', 'pyvcf', 'scikit-bio'],
-    'data_science': ['pandas', 'numpy', 'scipy', 'scikit-learn'],
-    'visualization': ['matplotlib', 'seaborn', 'plotly', 'bokeh'],
-    'genomics': ['pybedtools', 'pygenome', 'cyvcf2']
-}
-```
-### 🧬 R/Bioconductor Packages I've Used 
-
-| Category | Core Packages | Primary Application |
-|----------|---------------|-------------------|
-| **Differential Expression** | `DESeq2`, `limma`, `edgeR` | RNA-seq Analysis & Statistical Testing |
-| **Genomic Data Handling** | `GenomicRanges`, `rtracklayer`, `GenomicFeatures` | Coordinate-based Data Manipulation |
-| **Pathway Analysis** | `clusterProfiler`, `DOSE`, `ReactomePA` | GO/KEGG Enrichment & Visualization |
-| **Visualization** | `ggplot2`, `ComplexHeatmap`, `EnhancedVolcano` | Plots & Heatmaps |
-| **Sequence Analysis** | `Biostrings`, `BSgenome`, `ShortRead` | DNA/RNA Sequence Manipulation |
-| **Statistical Modeling** | `sva`, `RUVSeq`, `BatchQC` | Batch Correction & Quality Control |
-| **Annotation** | `org.Hs.eg.db`, `TxDb.Hsapiens.UCSC.hg38.knownGene` | Gene/Transcript Annotation Databases |
-
+ # 💻 Technical Skills
 ### **💡Core Bioinformatics Expertise**
 * 🧬 **NGS Pipelines:** Quality control → Alignment → Quantification → Analysis
 * 🔬 **Variant Analysis:** VCF processing, annotation, population genetics
