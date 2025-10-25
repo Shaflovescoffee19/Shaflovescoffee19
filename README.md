@@ -7,7 +7,7 @@ Connect with me on LinkedIn [**Mohiraa Shafreen**](https://www.linkedin.com/in/m
 ### *📚What I've accomplished*
 * Bioengineer with a Gold Medal _(B.Tech Biotechnology)_ | M.Tech First Class
 * Published 7 peer-reviewed articles | 130+ citations
-* Dual expertise in bioinformatic workflows and wet lab
+*Integrated expertise in bioinformatic & computational workflows and wet lab
 
  # 💻 Technical Skills
 ### **💡Core Bioinformatics Expertise**
