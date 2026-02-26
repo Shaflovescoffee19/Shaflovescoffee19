@@ -1,7 +1,7 @@
 # Hi there, I'm Mohiraa Shafreen! 
 ### I'm a _bioengineer_ who got pulled into _computational biology_ and never looked back. My background is wet lab (DNA extractions, PCR, microbial cultures), but somewhere along the way, I got fascinated by what you can learn from data that you simply cannot see at a bench. 
 
-That curiosity led me to build an** ML skill set from scratch**, working through everything from basic EDA to neural networks and transfer learning, all applied to the kind of biological questions I actually care about.
+That curiosity led me to build an _**ML skill set from scratch**_, working through everything from basic EDA to neural networks and transfer learning, all applied to the kind of biological questions I actually care about.
 
 I worked through 10 projects over several months, deliberately chosen to cover the techniques I kept running into in the literature -> **survival modelling, clustering for subtype discovery, SHAP for interpretability, stacking ensembles for multi-modal fusion, and transfer learning** for small and underrepresented cohorts. Each one taught me something I couldn't have learned just by reading about it.
 
