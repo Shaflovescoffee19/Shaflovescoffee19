@@ -3,9 +3,9 @@
 
 That curiosity led me to build an _**ML skill set from scratch**_, working through everything from basic EDA to neural networks and transfer learning, all applied to the kind of biological questions I actually care about.
 
-I worked through 10 projects over several months, deliberately chosen to cover the techniques I kept running into in the literature -> **survival modelling, clustering for subtype discovery, SHAP for interpretability, stacking ensembles for multi-modal fusion, and transfer learning** for small and underrepresented cohorts. Each one taught me something I couldn't have learned just by reading about it.
+I worked through 10 projects over several months, deliberately chosen to cover the techniques I kept running into in the literature -> _**survival modelling, clustering for subtype discovery, SHAP for interpretability, stacking ensembles for multi-modal fusion, and transfer learning**_ for small and underrepresented cohorts. Each one taught me something I couldn't have learned just by reading about it.
 
-I'm interested in building the computational tools that read that story accurately and I'm currently looking for roles at the intersection of ML, multi-omics, and precision medicine._
+I'm interested in building the computational tools that read that story accurately and I'm currently looking for roles at the intersection of ML, multi-omics, and precision medicine.
 
 Connect with me on LinkedIn [**Mohiraa Shafreen**](https://www.linkedin.com/in/mohiraa-shafreen-95829921a) | Check out my publications [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=0mf9Qd0AAAAJ) | For research or project collaborations, feel free to reach out at mm8170@srmist.edu.in
   
