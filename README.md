@@ -17,7 +17,7 @@ Connect with me on LinkedIn [**Mohiraa Shafreen**](https://www.linkedin.com/in/m
 * Published 8 peer-reviewed articles | 180+ citations 
 * Integrated expertise in computational workflows and wet lab (both sides of the bench😉)
 
-## What I've been building
+## What I've been building | ML for Computational Biology->Project Portfolio 
 
 Over the past few months, I built a 10-project ML portfolio covering the full stack of techniques used in computational biology research. I started from scratch. The goal was to cover every major technique, to understand why each method exists, what problem it was designed to solve, and where it breaks. 
 
@@ -38,8 +38,8 @@ Over the past few months, I built a 10-project ML portfolio covering the full st
 ### **💡Core Bioinformatics Expertise**
 * 🧬 **NGS Pipelines:** Quality control → Alignment → Quantification → Analysis
 * 🔬 **Variant Analysis:** VCF processing, annotation, population genetics
-* 🦠 **Metagenomics:** Taxonomic profiling, diversity analysis, phylogenetics
-* 🎯 **Cancer Genomics:** Mutation analysis, survival modeling, biomarker discovery
+* 🦠 **Metagenomics:** Taxonomic profiling, diversity analysis (Shannon, Bray-Curtis, UniFrac), phylogenetics
+* 🎯 **Cancer Genomics:** Mutation analysis, survival modeling, biomarker discovery, multi-omics integration 
 * 📊 **Statistical Genomics:** GWAS, eQTL analysis, differential expression
 
 ### 🗄️ Data Sources & Integration Pipeline
