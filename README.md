@@ -3,7 +3,7 @@
 
 That curiosity drove me dive deep into learning bioinformatics and now has led me to build an _**ML skill set from scratch**_, working through everything from basic EDA to neural networks and transfer learning, all applied to the kind of biological questions I actually care about.
 
-I worked through 10 projects over several months, deliberately chosen to cover the techniques I kept running into in the literature -> _**survival modelling, clustering for subtype discovery, SHAP for interpretability, stacking ensembles for multi-modal fusion, and transfer learning**_ for small and underrepresented cohorts. Each one taught me something I couldn't have learned just by reading about it.
+I worked through 10 projects over several months, deliberately chosen to cover the techniques I kept running into in the literature -> _**survival modelling, clustering for subtype discovery, SHAP for interpretability, stacking ensembles for multi-modal fusion, and transfer learning**_. Each one taught me something I couldn't have learned just by reading about it.
 
 I'm interested in building the computational tools that read that story accurately and I'm currently looking for roles at the intersection of ML, multi-omics, and precision medicine.
 
