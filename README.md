@@ -17,6 +17,23 @@ Connect with me on LinkedIn [**Mohiraa Shafreen**](https://www.linkedin.com/in/m
 * Published 8 peer-reviewed articles | 180+ citations 
 * Integrated expertise in computational workflows and wet lab (both sides of the bench😉)
 
+## What I've been building
+
+Over the past few months, I built a 10-project ML portfolio covering the full stack of techniques used in computational biology research. I started from scratch. The goal was to cover every major technique, to understand why each method exists, what problem it was designed to solve, and where it breaks. 
+
+| Project | What I learned | Techniques |
+|---------|---------------|------------|
+| [Heart Disease EDA](https://github.com/Shaflovescoffee19/heart-disease-eda) | How to actually read a dataset before touching a model | pandas, seaborn, statistical analysis, visualisation |
+| [Diabetes Data Cleaning](https://github.com/Shaflovescoffee19/diabetes-cleaning) | Real medical data is messy and cleaning it properly takes longer than modelling | Missing data imputation, IQR outlier capping, feature engineering, scaling |
+| [Cancer Risk Classification](https://github.com/Shaflovescoffee19/cancer-classification) | When the simplest model wins and why that's not a failure | Logistic regression, Random Forest, XGBoost, AUC-ROC, cross-validation |
+| [Survival Analysis](https://github.com/Shaflovescoffee19/survival-analysis) | Time-to-event modelling is unavoidable in clinical research and it has its own entirely different logic | Kaplan-Meier, log-rank test, Cox Proportional Hazards, C-index |
+| [Customer Segmentation](https://github.com/Shaflovescoffee19/customer-segmentation) | Finding structure in data without being told what to look for | K-Means, Elbow Method, Silhouette Score, PCA |
+| [Gene Expression Clustering](https://github.com/Shaflovescoffee19/gene-expression-clustering) | RNA-Seq data has its own preprocessing rules and skipping them breaks everything downstream | Log transformation, variance selection, hierarchical clustering, heatmaps |
+| [Explainable AI with SHAP](https://github.com/Shaflovescoffee19/shap-explainability) | A model nobody can explain is a model nobody will trust | TreeExplainer, beeswarm, waterfall plots, bootstrap stability |
+| [Counterfactual Explanations](https://github.com/Shaflovescoffee19/counterfactual-explanations) | Turning a risk score into something a person can actually act on | Actionable counterfactuals, diverse CF generation |
+| [Multi-Modal Data Fusion](https://github.com/Shaflovescoffee19/multimodal-fusion) | Genomic, microbiome, and clinical data together tell a story that none of them can tell alone | Early/late/intermediate fusion, stacking ensemble, ablation study |
+| [Transfer Learning](https://github.com/Shaflovescoffee19/transfer-learning) | When your target population is small you need a model that borrows knowledge, not one that starts blind | Neural network pre-training, layer freezing, fine-tuning, learning curves |
+
  # 💻 Technical Skills
 ### **💡Core Bioinformatics Expertise**
 * 🧬 **NGS Pipelines:** Quality control → Alignment → Quantification → Analysis
