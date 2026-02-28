@@ -3,8 +3,6 @@
 
 That curiosity drove me dive deep into learning bioinformatics and now has led me to build an _**ML skill set from scratch**_, working through everything from basic EDA to neural networks and transfer learning, all applied to the kind of biological questions I actually care about.
 
-I worked through 10 projects over several months, deliberately chosen to cover the techniques I kept running into in the literature -> _**survival modelling, clustering for subtype discovery, SHAP for interpretability, stacking ensembles for multi-modal fusion, and transfer learning**_. Each one taught me something I couldn't have learned just by reading about it.
-
 I'm interested in building the computational tools that read that story accurately and I'm currently looking for roles at the intersection of ML, multi-omics, and precision medicine.
 
 Connect with me on LinkedIn [**Mohiraa Shafreen**](https://www.linkedin.com/in/mohiraa-shafreen-95829921a) | Check out my publications [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=0mf9Qd0AAAAJ) | For research or project collaborations, feel free to reach out at mm8170@srmist.edu.in
@@ -19,7 +17,7 @@ Connect with me on LinkedIn [**Mohiraa Shafreen**](https://www.linkedin.com/in/m
 
 ## What I've been building | ML for Computational Biology->Project Portfolio 
 
-Over the past few months, I built a 10-project ML portfolio covering the full stack of techniques used in computational biology research. I started from scratch. The goal was to cover every major technique, to understand why each method exists, what problem it was designed to solve, and where it breaks. 
+Over the past few months, I built a 10-project ML portfolio covering the full stack of techniques used in computational biology research. I started from scratch. The goal was to cover major techniques, to understand why each method exists, what problem it was designed to solve, and where it breaks. 
 
 | Project | What I learned | Techniques |
 |---------|---------------|------------|
