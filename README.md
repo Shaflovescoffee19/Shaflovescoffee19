@@ -6,7 +6,7 @@ That curiosity drove me dive deep into learning bioinformatics and now has led m
 I'm interested in building the computational tools that read that story accurately and I'm currently looking for roles at the intersection of ML, multi-omics, and precision medicine.
 
 Connect with me on LinkedIn [**Mohiraa Shafreen**](https://www.linkedin.com/in/mohiraa-shafreen-95829921a) | Check out my publications [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=0mf9Qd0AAAAJ) | For research or project collaborations, feel free to reach out at mm8170@srmist.edu.in
-📄 [Download CV](https://github.com/Shaflovescoffee19/Shaflovescoffee19/raw/main/Mohiraa_Shafreen_CV.pdf)
+|📄 [Download CV](https://github.com/Shaflovescoffee19/Shaflovescoffee19/raw/main/Mohiraa_Shafreen_CV.pdf)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=python&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
