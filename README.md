@@ -1,8 +1,6 @@
 # Hi there, I'm Mohiraa Shafreen! 
 ### I'm a _bioengineer_ who got pulled into _computational biology_ and never looked back. My background is wet lab (DNA extractions, PCR, microbial cultures), but somewhere along the way, I got fascinated by what you can learn from data that you simply cannot see at a bench. 
 
-That curiosity drove me dive deep into learning bioinformatics and now has led me to build an _**ML skill set from scratch**_, working through everything from basic EDA to neural networks and transfer learning, all applied to the kind of biological questions I actually care about.
-
 I'm interested in building the computational tools that read that story accurately and I'm currently looking for roles at the intersection of ML, multi-omics, and precision medicine.
 
 Connect with me on LinkedIn [**Mohiraa Shafreen**](https://www.linkedin.com/in/mohiraa-shafreen-95829921a) | Check out my publications [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=0mf9Qd0AAAAJ) | For research or project collaborations, feel free to reach out at mm8170@srmist.edu.in
