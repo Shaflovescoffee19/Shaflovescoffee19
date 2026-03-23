@@ -35,7 +35,7 @@ Over the past few months, I built a 10-project ML portfolio covering the full st
 ### **💡Core Bioinformatics Expertise**
 * 🧬 **NGS Pipelines:** Quality control → Alignment → Quantification → Analysis
 * 🔬 **Variant Analysis:** VCF processing, annotation, population genetics
-* 🦠 **Metagenomics:** Taxonomic profiling, diversity analysis (Shannon, Bray-Curtis, UniFrac), phylogenetics
+* 🦠 **Metagenomics:** Taxonomic profiling, diversity analysis, phylogenetics
 * 🧬 **RNA-seq Analysis:** Reference-based & De novo
 
 ### 🔬 Wet Lab Expertise
