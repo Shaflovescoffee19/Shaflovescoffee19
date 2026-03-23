@@ -37,25 +37,7 @@ Over the past few months, I built a 10-project ML portfolio covering the full st
 * 🔬 **Variant Analysis:** VCF processing, annotation, population genetics
 * 🦠 **Metagenomics:** Taxonomic profiling, diversity analysis (Shannon, Bray-Curtis, UniFrac), phylogenetics
 * 🎯 **Cancer Genomics:** Mutation analysis, survival modeling, biomarker discovery, multi-omics integration 
-* 📊 **Statistical Genomics:** GWAS, eQTL analysis, differential expression
-
-### 🗄️ Data Sources & Integration Pipeline
-
-| Category | Resource | Description |
-|----------|----------|-------------|
-| **Reference Genomes** | `GRCh37/GRCh38` | Human genome assemblies for variant mapping |
-| | `GENCODE/RefSeq` | Gene annotations and transcript models |
-| | `Ensembl BioMart` | Bulk data retrieval and gene ID mapping |
-| **Variant & Population** | `gnomAD` | Population allele frequencies |
-| | `ClinVar` | Clinical variant interpretations and pathogenicity |
-| | `dbSNP & COSMIC` | Variant catalogs and somatic mutations |
-| **Functional Analysis** | `KEGG Pathway` | Metabolic and signaling pathway mapping |
-| | `Gene Ontology` | Functional classification and enrichment analysis |
-| | `STRING` | Protein-protein interaction networks |
-| | `Reactome` | Curated biological pathway annotations |
-| **Cancer Genomics** | `TCGA` | Multi-omics cancer data |
-| | `cBioPortal` | Cancer genomics visualization and analysis |
-| | `COSMIC` | Somatic mutation and drug resistance databases |
+* 📊 **Statistical Genomics:** GWAS, eQTL analysis, differential expression|
 
 ### 🔬 Wet Lab Expertise
 
@@ -65,7 +47,7 @@ Over the past few months, I built a 10-project ML portfolio covering the full st
 | **Molecular Biology** | DNA/RNA extraction, PCR, qPCR, RT-PCR | Bacteria, blood, feces, plant tissues, soil, water, fungi |
 | **Biochemistry** | Enzymatic assays, protein quantification, metabolite extraction, purification & analysis | Cellular extracts |
 ----
-### **🤓Fun Fact:** When I'm not analyzing data, I read a lot of books, hoard them, watch a lot of movies, and analyze more film plots on Letterboxd [**@manicindisguise**](https://letterboxd.com/manicindisguise/)(＾▽＾)  📊➡️🎬
+### **🤓Fun Fact:** When I'm not sciencing, I read a lot of books, hoard them, watch a lot of movies, and analyze more film plots on Letterboxd [**@manicindisguise**](https://letterboxd.com/manicindisguise/)(＾▽＾)  📊➡️🎬
 ### PS: Currently reading _**Project Hail Mary**_ by Andy Weir (_microbiologists_ would especially LOVE it). The movie trailer blew me away… can’t wait to see if the movie is better than the book, or if the book wins out as always.
 ### And for all the Game of Thrones fans out there.. This is actually from George R. R. Martin
 _If you like a lot of science in your science fiction, Andy Weir is the writer for you...._
