@@ -36,8 +36,7 @@ Over the past few months, I built a 10-project ML portfolio covering the full st
 * 🧬 **NGS Pipelines:** Quality control → Alignment → Quantification → Analysis
 * 🔬 **Variant Analysis:** VCF processing, annotation, population genetics
 * 🦠 **Metagenomics:** Taxonomic profiling, diversity analysis (Shannon, Bray-Curtis, UniFrac), phylogenetics
-* 🎯 **Cancer Genomics:** Mutation analysis, survival modeling, biomarker discovery, multi-omics integration 
-* 📊 **Statistical Genomics:** GWAS, eQTL analysis, differential expression|
+* 🧬 **RNA-seq Analysis:** Reference-based & De novo
 
 ### 🔬 Wet Lab Expertise
 
