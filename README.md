@@ -10,6 +10,9 @@ Connect with me on LinkedIn [**Mohiraa Shafreen**](https://www.linkedin.com/in/m
 * Published 8 peer-reviewed articles | 180+ citations 
 * Integrated expertise in computational workflows and wet lab (both sides of the bench😉)
 
+## What I've been building
+Over the past few months I built a 10-project ML portfolio working through the techniques that keep showing up in computational biology research. Started from scratch, went in order, and tried to actually understand each method rather than just run the code.
+
 | Project | What I learned | Techniques | Why I built it |
 |---------|---------------|------------|----------------|
 | [Heart Disease EDA](https://github.com/Shaflovescoffee19/heart-disease-eda) | How to actually read a dataset before touching a model | pandas, seaborn, statistical analysis, visualisation | Most tutorials skip straight to modelling. I wanted to get this part right first |
