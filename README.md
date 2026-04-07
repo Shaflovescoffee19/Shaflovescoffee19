@@ -10,6 +10,19 @@ Connect with me on LinkedIn [**Mohiraa Shafreen**](https://www.linkedin.com/in/m
 * Published 8 peer-reviewed articles | 180+ citations 
 * Integrated expertise in computational workflows and wet lab (both sides of the bench😉)
 
+| Project | What I learned | Techniques | Why I built it |
+|---------|---------------|------------|----------------|
+| [Heart Disease EDA](https://github.com/Shaflovescoffee19/heart-disease-eda) | How to actually read a dataset before touching a model | pandas, seaborn, statistical analysis, visualisation | Most tutorials skip straight to modelling. I wanted to get this part right first |
+| [Diabetes Data Cleaning](https://github.com/Shaflovescoffee19/diabetes-cleaning) | Real medical data is messy and cleaning it properly takes longer than modelling | Missing data imputation, IQR outlier capping, feature engineering, scaling | Dirty data breaks everything downstream and I wanted to understand how to fix it properly |
+| [Cancer Risk Classification](https://github.com/Shaflovescoffee19/cancer-classification) | When the simplest model wins and why that is not a failure | Logistic regression, Random Forest, XGBoost, AUC-ROC, cross-validation | Needed to understand the core classification algorithms and how to evaluate them honestly |
+| [Survival Analysis](https://github.com/Shaflovescoffee19/survival-analysis) | Time-to-event modelling has its own entirely different logic from classification | Kaplan-Meier, log-rank test, Cox Proportional Hazards, C-index | This comes up constantly in clinical research and I had no idea how it worked |
+| [Customer Segmentation](https://github.com/Shaflovescoffee19/customer-segmentation) | Finding structure in data without being told what to look for | K-Means, Elbow Method, Silhouette Score, PCA | Unsupervised learning is everywhere in omics research and I had never properly done it |
+| [Gene Expression Clustering](https://github.com/Shaflovescoffee19/gene-expression-clustering) | RNA-Seq data has its own preprocessing rules and skipping them breaks everything | Log transformation, variance selection, hierarchical clustering, heatmaps | I work with this kind of data and wanted to understand the pipeline from raw counts to clusters |
+| [Explainable AI with SHAP](https://github.com/Shaflovescoffee19/shap-explainability) | A model nobody can explain is a model nobody will trust or use | TreeExplainer, beeswarm, waterfall plots, bootstrap stability | Interpretability matters a lot in clinical contexts and I wanted to go beyond feature importance |
+| [Counterfactual Explanations](https://github.com/Shaflovescoffee19/counterfactual-explanations) | Turning a risk score into something a person can actually act on | Actionable counterfactuals, diverse CF generation | SHAP tells you why. Counterfactuals tell you what to change. Both matter |
+| [Multi-Modal Data Fusion](https://github.com/Shaflovescoffee19/multimodal-fusion) | Genomic, microbiome, and clinical data together tell a story none of them can tell alone | Early/late/intermediate fusion, stacking ensemble, ablation study | Multi-omics integration is the problem I most want to work on and this is its core technical challenge |
+| [Transfer Learning](https://github.com/Shaflovescoffee19/transfer-learning) | When your target population is small you need a model that borrows knowledge not one that starts blind | Neural network pre-training, layer freezing, fine-tuning, learning curves | Small and underrepresented cohorts are a real problem in genomics research and this is how you address it |
+
  # 💻 Technical Skills
 ### **💡Core Bioinformatics Expertise**
 * 🧬 **NGS Pipelines:** Quality control → Alignment → Quantification → Analysis
