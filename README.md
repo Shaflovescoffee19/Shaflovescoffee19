@@ -43,5 +43,6 @@ Over the past few months I built a 10-project ML portfolio working through the t
 ----
 ### **🤓Fun Fact:** When I'm not sciencing, I read a lot of books, hoard them, watch a lot of movies, and analyze more film plots on Letterboxd [**@manicindisguise**](https://letterboxd.com/manicindisguise/)(＾▽＾)  📊➡️🎬
 ### PS: Currently reading _**Project Hail Mary**_ by Andy Weir (_microbiologists_ would especially LOVE it). The movie trailer blew me away… can’t wait to see if the movie is better than the book, or if the book wins out as always.
+𝗨𝗽𝗱𝗮𝘁𝗲: The movie is 𝘀𝗼𝗼𝗼𝗼 𝗴𝗼𝗼𝗱. Book = Movie. No notes.
 ### And for all the Game of Thrones fans out there.. This is actually from George R. R. Martin
 _If you like a lot of science in your science fiction, Andy Weir is the writer for you...._
