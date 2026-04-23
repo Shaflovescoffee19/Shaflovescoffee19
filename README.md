@@ -7,7 +7,7 @@ Connect with me on LinkedIn [**Mohiraa Shafreen**](https://www.linkedin.com/in/m
 |📄 [Download CV](https://github.com/Shaflovescoffee19/Shaflovescoffee19/raw/main/Mohiraa_Shafreen_CV.pdf)
 ### *📚Background*
 * Bioengineer with a Gold Medal _(B.Tech Biotechnology)_ | M.Tech First Class | Bioinformatics Industrial Internship
-* Published 8 peer-reviewed articles | 180+ citations 
+* Published 8 peer-reviewed articles | 190+ citations 
 * Integrated expertise in computational workflows and wet lab (both sides of the bench😉)
 
 ## What I've been building
