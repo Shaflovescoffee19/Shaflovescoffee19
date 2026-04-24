@@ -1,5 +1,5 @@
 # Hi there, I'm Mohiraa Shafreen! 
-### I'm a _bioengineer_ who got pulled into _computational biology_ and never looked back. My background is wet lab (DNA extractions, PCR, microbial cultures), but somewhere along the way, I got fascinated by what you can learn from data that you simply cannot see at a bench. 
+### I'm a _bioengineer_ who got pulled into _computational biology_ & *_data analysis_* and never looked back. My background is wet lab (DNA extractions, PCR, microbial cultures), but somewhere along the way, I got fascinated by what you can learn from data that you simply cannot see at a bench. 
 
 I'm interested in building the computational tools that read that story accurately and I'm currently looking for roles at the intersection of ML, multi-omics, and precision medicine.
 
