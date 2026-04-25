@@ -1,6 +1,6 @@
 # Hi, I'm Mohiraa Shafreen
 
-Bioengineer turned data analyst. I started in wet lab (DNA extractions, PCR, microbial cultures), got pulled into computational biology, and built an ML portfolio working through the methods that keep showing up in both research and industry. 
+Bioengineer. I started in wet lab (DNA extractions, PCR, microbial cultures), got pulled into computational biology, and built an ML portfolio working through the methods that keep showing up in both research and industry. 
 
 I now work across two tracks: biomedical data analysis for research roles, and financial/business data analytics for industry roles.
 
