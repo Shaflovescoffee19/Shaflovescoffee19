@@ -14,10 +14,10 @@ Currently open to Data Analyst positions in financial services, consulting, and 
 
 ## Background
 
-- M.Tech First Class | B.Tech Biotechnology, Gold Medal | 
-- Bioinformatics Industrial Internship
+- M.Tech First Class | B.Tech Biotechnology, *_Gold Medal_*
+- Interned as a *_Bioinformatics Intern_* at DrOmics Labs
 - 8 peer-reviewed publications | 190+ citations
-- Worked on both sides of the bench: wet lab and computational
+- Worked on both sides of the bench: *_wet lab_* and *_computational biology_*
 
 ---
 
@@ -54,13 +54,18 @@ Built across financial services, healthcare, supply chain, and e-commerce ➥ th
 
 ## Technical Skills
 
-**Data Analytics:** Python, pandas, NumPy, matplotlib, seaborn, scikit-learn, Jupyter Notebook, SQL (basic)
-
-**Machine Learning:** Classification, clustering, survival analysis, explainability (SHAP), imbalanced datasets (SMOTE)
-
-**Bioinformatics:** NGS pipelines, RNA-seq, variant analysis, metagenomics, taxonomic profiling
-
-**Wet Lab:** DNA/RNA extraction, PCR, qPCR, RT-PCR, microbial isolation, enzymatic assays
+| Area | Skills |
+|---|---|
+| **Languages** | Python, SQL, R (basic) |
+| **Data Analytics** | pandas, NumPy, matplotlib, seaborn, SciPy, statistics, EDA, data cleaning, feature engineering |
+| **Machine Learning** | scikit-learn, classification, clustering, survival analysis, SHAP explainability, SMOTE, Random Forest, XGBoost, Logistic Regression, transfer learning, counterfactual explanations |
+| **Visualisation & BI** | matplotlib, seaborn, Tableau, Power BI, Jupyter Notebook |
+| **Bioinformatics** | NGS pipelines, RNA-seq, variant analysis (VCF), metagenomics, taxonomic profiling, hierarchical clustering, gene expression analysis |
+| **Databases & Querying** | SQL, DuckDB |
+| **Reporting** | Excel (xlsxwriter, openpyxl), Tableau Public, Power BI dashboards |
+| **Dev Tools** | Git, GitHub, VS Code, virtual environments |
+| **Wet Lab** | DNA/RNA extraction, PCR, qPCR, RT-PCR, microbial isolation, antimicrobial screening, enzymatic assays, protein quantification, metabolite extraction |
+| **Domain Knowledge** | Fraud detection, healthcare operations, supply chain analytics, precision medicine, multi-omics integration |
 
 ---
 
@@ -71,4 +76,5 @@ Built across financial services, healthcare, supply chain, and e-commerce ➥ th
 
 ---
 
-* check out my Letterboxd [@manicindisguise](https://letterboxd.com/manicindisguise/)*
+---
+*Fair warning: if you follow me on Letterboxd [@manicindisguise](https://letterboxd.com/manicindisguise/) you will find out very quickly that I have Strong Opinions. Currently obsessed with *_Project Hail Mary_* ⮕ read the book, watched the movie, both hit. George R.R. Martin said Andy Weir is the writer for you if you like a lot of science in your science fiction and honestly George was right and I will not be taking questions.*
