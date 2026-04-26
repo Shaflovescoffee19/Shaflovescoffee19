@@ -66,13 +66,4 @@ Built across financial services, healthcare, supply chain, and e-commerce ➥ th
 | **Domain Knowledge** | Fraud detection, healthcare operations, supply chain analytics, precision medicine, multi-omics integration |
 
 ---
-
-## Publications
-
-8 peer-reviewed articles | 190+ citations
-[View on Google Scholar](https://scholar.google.com/citations?hl=en&user=0mf9Qd0AAAAJ)
-
----
-
----
 *Fair warning: if you follow me on Letterboxd [@manicindisguise](https://letterboxd.com/manicindisguise/) you will find out very quickly that I am a huge movie lover (not limiting myself to *_“cinephile”_*) . Currently obsessed with *_Project Hail Mary_* ⮕ read the book, watched the movie, both hit. George R.R. Martin said Andy Weir is the writer for you if you like a lot of science in your science fiction and honestly George was right and I will not be taking questions.*
