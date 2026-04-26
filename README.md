@@ -63,4 +63,4 @@ My research background gave me something most data analysts don't have: the habi
 ---
 *Fair warning: if you follow me on Letterboxd [@manicindisguise](https://letterboxd.com/manicindisguise/) you will find out very quickly that I am a huge movie lover (not limiting myself to *_“cinephile”_*) . Currently obsessed with *_Project Hail Mary_* ⮕ read the book, watched the movie, both hit. George R.R. Martin said Andy Weir is the writer for you if you like a lot of science in your science fiction and honestly George was right and I will not be taking questions.*
 ---
-*"The goal is to turn data into information, and information into insight." — Carly Fiorina*
+*"The goal is to turn data into information, and information into insight." - Carly Fiorina*
