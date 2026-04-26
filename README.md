@@ -1,8 +1,12 @@
 # Hi, I'm Mohiraa
 
-A Bioengineer. I started in wet lab (DNA extractions, PCR, microbial cultures), got pulled into computational biology, and built an ML portfolio working through the methods that keep showing up in both research and industry
-· I am now transitioning from Life Sciences into Data & AI 
-· I hold an M.Tech in Biotechnology with 8 peer-reviewed publications. After years in research, I recognised that data is the common thread across every industry and decided to go deep on it. 
+Bioengineer → Computational Biologist → Data & AI
+
+M.Tech in Biotechnology · 8 peer-reviewed publications
+
+Started in wet lab (DNA extractions, PCR, microbial cultures), moved into computational biology, and built an ML portfolio around the methods that matter in both research and industry.
+
+I recognised that data is the common thread across every domain and started going deep into it.
 
 I now work across two tracks: biological data analysis for research roles, and data analytics for industry roles.
 
