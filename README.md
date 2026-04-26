@@ -1,8 +1,10 @@
-# Hi, I'm Mohiraa Shafreen
+# Hi, I'm Mohiraa
 
-Bioengineer. I started in wet lab (DNA extractions, PCR, microbial cultures), got pulled into computational biology, and built an ML portfolio working through the methods that keep showing up in both research and industry. 
+A Bioengineer. I started in wet lab (DNA extractions, PCR, microbial cultures), got pulled into computational biology, and built an ML portfolio working through the methods that keep showing up in both research and industry
+· I am now transitioning from Life Sciences into Data & AI 
+· I hold an M.Tech in Biotechnology with 8 peer-reviewed publications. After years in research, I recognised that data is the common thread across every industry and decided to go deep on it. 
 
-I now work across two tracks: biomedical data analysis for research roles, and financial/business data analytics for industry roles.
+I now work across two tracks: biological data analysis for research roles, and data analytics for industry roles.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohiraa_Shafreen-blue)](https://www.linkedin.com/in/mohiraa-shafreen-95829921a)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-190+_citations-green)](https://scholar.google.com/citations?hl=en&user=0mf9Qd0AAAAJ)
@@ -10,27 +12,21 @@ I now work across two tracks: biomedical data analysis for research roles, and f
 
 ---
 
-## Background
-
-- M.Tech First Class | B.Tech Biotechnology, *_Gold Medal_*
-- Interned as a *_Bioinformatics Intern_* at DrOmics Labs
-- 8 peer-reviewed publications | 190+ citations
-- Worked on both sides of the bench: *_wet lab_* and *_computational biology_*
-
----
-
 ## Industry Analytics Projects
 
 Built across financial services, healthcare, supply chain, and e-commerce ➥ the problem domains that come up most in data analyst roles at banks, consulting firms, and operations companies.
 
-| Project | What I built | Key result |
+| Project | What I Built | Key Result |
 |---|---|---|
-| [Credit Card Fraud Detection](https://github.com/Shaflovescoffee19/fraud-detection-portfolio) | End-to-end fraud detection pipeline on 284,807 real banking transactions | Random Forest 0.97 AUC, detected 82.7% of fraud, $9,899 value protected |
-| [Healthcare Operations Analytics](https://github.com/Shaflovescoffee19/healthcare-operations-analytics) | Patient flow and resource analysis across 318,438 hospital admissions with Power BI dashboard | Identified 78.3% departmental concentration, pricing anomaly, and regional capacity imbalance |
-| [Brazilian E-Commerce Supply Chain](https://github.com/Shaflovescoffee19/Brazilian-Ecommerce-Supply-Chain) | Full-stack supply chain analytics on 100K+ real orders using Python, SQL, Tableau, and Excel | 70.9% Black Friday demand spike undetected by baseline forecast, 33% late delivery rate in Amazonas |
-
+| [🧠 RetailSense AI](#-retailsense-ai--ai-powered-retail-analytics) | AI dashboard: natural language → SQL → chart → insight | Full LLM pipeline; any business question answered in <10 seconds |
+| [🏥 Healthcare Operations Analytics](#-healthcare-operations-analytics) | Patient flow & resource analysis across 318,438 admissions | Identified 78.3% departmental concentration & pricing anomaly |
+| [📦 Brazilian E-Commerce Supply Chain](#-brazilian-e-commerce-supply-chain) | Full-stack supply chain analytics on 100K+ real orders | 70.9% Black Friday demand spike undetected by baseline forecast |
 ---
+## 🎓 Background
 
+**M.Tech Biotechnology** · **8 peer-reviewed publications in life sciences** · **B. Tech Gold Medalist**
+
+My research background gave me something most data analysts don't have: the habit of questioning data, understanding statistical significance, and communicating complex findings to non-technical audiences. I'm now applying those same skills to business data.
 ## Computational Biology & ML Portfolio
 
 10 projects built in sequence, starting from fundamentals and working toward multi-omics integration. Each one was built to understand the method, not just run the code.
@@ -67,3 +63,5 @@ Built across financial services, healthcare, supply chain, and e-commerce ➥ th
 
 ---
 *Fair warning: if you follow me on Letterboxd [@manicindisguise](https://letterboxd.com/manicindisguise/) you will find out very quickly that I am a huge movie lover (not limiting myself to *_“cinephile”_*) . Currently obsessed with *_Project Hail Mary_* ⮕ read the book, watched the movie, both hit. George R.R. Martin said Andy Weir is the writer for you if you like a lot of science in your science fiction and honestly George was right and I will not be taking questions.*
+---
+*"The goal is to turn data into information, and information into insight." — Carly Fiorina*
