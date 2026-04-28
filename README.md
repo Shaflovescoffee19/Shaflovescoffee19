@@ -21,7 +21,7 @@ Built across financial services, healthcare, supply chain, and e-commerce ➥ th
 
 | Project | What I Built | Key Result |
 |---|---|---|
-| [🧠 RetailSense AI](#-retailsense-ai--ai-powered-retail-analytics) | AI dashboard — natural language → SQL → chart → insight | Full LLM pipeline; any business question answered in <10 seconds |
+| [🧠 RetailSense AI](https://github.com/Shaflovescoffee19/retailsense-ai) | AI dashboard: natural language → SQL → chart → insight | Full LLM pipeline; any business question answered in <10 seconds |
 | [🔐 Credit Card Fraud Detection](https://github.com/Shaflovescoffee19/fraud-detection-portfolio) | End-to-end fraud detection pipeline on 284,807 real banking transactions | Random Forest 0.97 AUC, detected 82.7% of fraud, $9,899 value protected |
 | [🏥 Healthcare Operations Analytics](#-healthcare-operations-analytics) | Patient flow & resource analysis across 318,438 admissions | Identified 78.3% departmental concentration & pricing anomaly |
 | [📦 Brazilian E-Commerce Supply Chain](#-brazilian-e-commerce-supply-chain) | Full-stack supply chain analytics on 100K+ real orders | 70.9% Black Friday demand spike undetected by baseline forecast |
