@@ -11,7 +11,7 @@ I recognised that data is the common thread across every domain and started goin
 I now work across two tracks: biological data analysis for research roles, and data analytics for industry roles.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohiraa_Shafreen-blue)](https://www.linkedin.com/in/mohiraa-shafreen-95829921a)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-190+_citations-green)](https://scholar.google.com/citations?hl=en&user=0mf9Qd0AAAAJ)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-200+_citations-green)](https://scholar.google.com/citations?hl=en&user=0mf9Qd0AAAAJ)
 
 ---
 
