@@ -1,15 +1,5 @@
 # Hi, I'm Mohiraa
-
-Bioengineer → Computational Biologist → Data & AI
-
-M.Tech in Biotechnology · 8 peer-reviewed publications
-
-Started in wet lab (DNA extractions, PCR, microbial cultures), moved into computational biology, and built an ML portfolio around the methods that matter in both research and industry.
-
-I recognised that data is the common thread across every domain and started going deep into it.
-
-I now work across two tracks: biological data analysis for research roles, and data analytics for industry roles.
-
+Reach out to me on Linkedin; Check my publications using the below link
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohiraa_Shafreen-blue)](https://www.linkedin.com/in/mohiraa-shafreen-95829921a)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-200+_citations-green)](https://scholar.google.com/citations?hl=en&user=0mf9Qd0AAAAJ)
 
